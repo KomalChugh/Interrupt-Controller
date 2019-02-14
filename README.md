@@ -1,2 +1,2 @@
 # Interrupt-Controller
-Extension of SimpleRISC simulator to support exceptions
+Extending the design of SimpleRISC simulator to support exceptions and interrupts and provide suitable re-runs and error messages.
